@@ -34,9 +34,6 @@ function multiply(a, b){
 function greeting (a, b){
   return (`Hello ${a} ${b}, nice to meet you!`)
 }
-// greeting("Abdi", "Farah", cb =>{
-//   console.log(cb)
-// });
 
 /* Step 3: Check your work by un-commenting the following calls to consume(): */
 console.log(consume(2, 2, add)); // 4
